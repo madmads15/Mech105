@@ -1,4 +1,4 @@
-# Mech105
+# Mech105 - My Algorithms
 Algorithms Developed for Mech105
 
 This repository contains all of the Matlab algorithms that I have created for Mech 105.

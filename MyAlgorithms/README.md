@@ -11,4 +11,4 @@ Those algorithms include:
 
 3. Simpson's 1/3 Rule Algorithm
 
-Each folder in this repository has the Matlab code for each algorithm and their OWN README.md file that explains the code in detail.
+Each folder in this repository has the Matlab code for each algorithm and their own README.md file that explains the code in detail.
